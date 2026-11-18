@@ -1,5 +1,5 @@
 """
-MATH 215 - Drone Vector Simulator
+Drone Vector Simulator
 Mathematical Verification Tests
 
 This file tests the vector calculations used in the drone simulator.
