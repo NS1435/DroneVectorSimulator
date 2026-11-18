@@ -53,7 +53,7 @@ $$
 Vector projections are used to determine how much of the wind acts parallel or perpendicular to the drone's direction of movement:
 
 $$
-\operatorname{proj}_{\vec{b}}\vec{a} =
+\mathrm{proj}_{\vec{b}}(\vec{a}) =
 \frac{\vec{a}\cdot\vec{b}}{\vec{b}\cdot\vec{b}}\vec{b}
 $$
 
